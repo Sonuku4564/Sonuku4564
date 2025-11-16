@@ -31,7 +31,7 @@ Every project I build from design to deployment reflects my commitment to transf
 ### 🧠 Skills & Technologies
 
 #### 💻 Programming Languages
-`C`  • `Java` • `Python` • `JavaScript` • `TypeScript` • `SQL` • `Solidity`
+`C` • `Java`  • `Python`  • `JavaScript`  • `TypeScript`  • `SQL`  • `Solidity`
 
 #### ⚙️ Frameworks & Libraries
 • `React` • `Next.js` • `Node.js` • `Express.js` • `Spring Boot` • `Django` • `React Native`
@@ -99,13 +99,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
 <img align="left" alt="Docker" width="40px" style="margin-right:15px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 
+<br><br>
+
 <img align="left" alt="Kubernetes" width="40px" style="margin-right:15px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
 <img align="left" alt="CI/CD" width="40px" style="margin-right:15px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg"/>
 <img align="left" alt="AWS" width="40px" style="margin-right:15px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
-
 <br><br>
 
 ---
